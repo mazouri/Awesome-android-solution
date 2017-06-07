@@ -1,1 +1,22 @@
 # Awesome-android-solution
+
+## 界面相关
+## binder
+## AIDL
+## provider
+## 缓存cache
+## 设计模式
+## handler
+## 热更新
+## json/xml
+## ANR
+## OOM
+## 广播
+## 服务service
+## socket
+## 数据库相关
+## 线程池
+## 开源框架
+## 开源库
+## MD
+## Android版本差异
